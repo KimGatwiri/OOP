@@ -83,7 +83,7 @@ Access modifiers control the visibility and accessibility of class members:
 ## Example: The `Car` Class (Detailed)
 
 ```java
-public class Car {
+public class Car { 
     private String model; // Private fields for encapsulation
     private String color;
     private int speed;
